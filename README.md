@@ -1,7 +1,7 @@
 # Hi, I'm Abubakkar Siddique! 👋
 
 ### 🎓 Computer Science & Engineering Student at UIU
-🌟 Aspiring Software Engineer with a focus on **web development**, **mobile app development**, and **full-stack projects**. I have a passion for learning and exploring new technologies.
+🌟 Aspiring *Software Engineer* with a focus on **web development**, **mobile app development**, and **full-stack projects**. I have a passion for learning and exploring new technologies.
 
 ---
 
