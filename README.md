@@ -110,6 +110,6 @@ A robust system for managing bookings for events, buses, or flights with a secur
 
 ##  Blog & Writing
 - **Technical Articles**: Sharing my learning journey and coding tips.
-- **[Medium Blog](https://medium.com/@your-profile)** | **[Personal Blog](https://yourblog.com)**
+- **[Medium Blog](https://medium.com/@abubakkarsiddiquee)** | **[Personal Blog](https://yourblog.com)**
 
 Feel free to explore my repositories and reach out for any collaboration or queries. Let's code and build amazing projects together!
