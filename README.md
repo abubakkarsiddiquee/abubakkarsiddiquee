@@ -1,11 +1,11 @@
-# Hi, I'm Abubakkar Siddique! 👋
+# Hi, I'm Abubakkar Siddique.
 
-### 🎓 Computer Science & Engineering Student at UIU
-🌟 Aspiring *Software Engineer* with a focus on **web development**, **mobile app development**, and **full-stack projects**. I have a passion for learning and exploring new technologies.
+### Computer Science & Engineering Student at UIU
+ Aspiring *Software Engineer* with a focus on **web development**, **Cyber Security**, **mobile app development**, and **full-stack projects**. I have a passion for learning and exploring new technologies.
 
 ---
 
-## 💻 Technologies & Tools
+##  Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Skills and Technologies
+## Skills and Technologies
 
 ### Programming Languages
 - **Python**: Experienced in building applications and data analysis.
@@ -61,43 +61,45 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - **Advanced TypeScript**
 - **Mobile App Animation with React Native**
 - **Cloud Services** for better deployment strategies.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakkarsiddiquee&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkarsiddiquee&layout=compact&theme=radical)
 
 ---
 
-## 📚 Notable Projects
-### 1. **[Project Management System](link-to-project)**
-   - A comprehensive platform for managing group projects, especially for university environments.
-   - **Tech Stack**: React, Node.js, MySQL
-   - Features include task management, file sharing, and real-time collaboration.
+## Notable Projects
+### 1. [Web Scraping-Based Job Searching Platform](link-to-project)
+A full-stack platform that aggregates job listings from multiple portals and delivers personalized job recommendations based on user skills and preferences.  
+**Key Features:**  
+- Automated scraping of jobs from multiple websites  
+- Skill-based personalized recommendations  
+- User-friendly interface for browsing and tracking applications  
+**Tech Stack:** Node.js, Express.js, React, MySQL  
 
-### 2. **[Registration & Login System](link-to-project)**
-   - A secure user authentication system using PHP and MySQL.
-   - **Features**: CRUD operations, password recovery, and session management.
+### 2. [Baby Cry Decoder](link-to-project)
+A mobile application leveraging deep learning to analyze baby cries and identify potential needs or discomforts.  
+**Key Features:**  
+- Real-time cry classification: hunger, discomfort, pain, tiredness, burping  
+- Spectrogram-based CNN model for audio analysis  
+- Integrated BMI calculator, reminders, and AI parenting chatbot  
+**Tech Stack:** React Native, Expo, Python, Keras, TensorFlow  
 
-### 3. **[Programming Game for Teenagers](link-to-project)**
-   - An educational game teaching programming basics.
-   - **Tech Stack**: React Native, TypeScript, Firebase for real-time chat.
+### 3. [Ticket Booking Management System](link-to-project)
+A robust system for managing bookings for events, buses, or flights with a secure admin and user interface.  
+**Key Features:**  
+- Seamless ticket booking and cancellation workflow  
+- Admin panel for schedule and availability management  
+- Transaction and user data management with notifications  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL 
 
----
-
-## 🏆 Achievements
-- Contributed to multiple open-source projects.
-- Participated in Hacktoberfest and other coding challenges.
-- Earned [specific GitHub badges](https://github.com/abubakkarsiddiquee?tab=achievements) for active participation.
-
----
-
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abubakkar-siddique-946909235/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/Awubakkar)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/abubakkarsiddiquee)
@@ -106,10 +108,8 @@
 
 ---
 
-## 📝 Blog & Writing
+##  Blog & Writing
 - **Technical Articles**: Sharing my learning journey and coding tips.
 - **[Medium Blog](https://medium.com/@your-profile)** | **[Personal Blog](https://yourblog.com)**
 
 Feel free to explore my repositories and reach out for any collaboration or queries. Let's code and build amazing projects together!
-
----
