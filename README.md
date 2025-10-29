@@ -91,13 +91,13 @@ A mobile application leveraging deep learning to analyze baby cries and identify
 - Integrated BMI calculator, reminders, and AI parenting chatbot  
 **Tech Stack:** React Native, Expo, Python, Keras, TensorFlow  
 
-### 3. [Ticket Booking Management System](link-to-project)
+### 3. [Ticket Booking Management System](https://github.com/abubakkarsiddiquee/Ticket_Management_System)
 A robust system for managing bookings for events, buses, or flights with a secure admin and user interface.  
 **Key Features:**  
 - Seamless ticket booking and cancellation workflow  
 - Admin panel for schedule and availability management  
 - Transaction and user data management with notifications  
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL 
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abubakkar-siddique-946909235/)
