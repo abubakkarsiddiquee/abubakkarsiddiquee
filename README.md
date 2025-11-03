@@ -75,12 +75,13 @@
 ---
 
 ## Notable Projects
-### 1. [Web Scraping-Based Job Searching Platform](link-to-project)
-A full-stack platform that aggregates job listings from multiple portals and delivers personalized job recommendations based on user skills and preferences.  
+### 1. [Web Scraping-Based Job Searching Platform](https://github.com/abubakkarsiddiquee/web-scraping-job-search-platform)
+Description: A full-stack intelligent job search platform that aggregates listings from multiple portals and provides AI-driven personalized recommendations based on user skills and preferences.
 **Key Features:**  
-- Automated scraping of jobs from multiple websites  
-- Skill-based personalized recommendations  
-- User-friendly interface for browsing and tracking applications  
+- Automated job scraping from multiple career websites  
+-AI-based skill matching for personalized job suggestions  
+-Modern, user-friendly dashboard for browsing and tracking applications
+-Real-time database updates and secure API integration
 **Tech Stack:** Node.js, Express.js, React, MySQL  
 
 ### 2. [Baby Cry Decoder](link-to-project)
