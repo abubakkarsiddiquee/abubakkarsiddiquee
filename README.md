@@ -1,4 +1,4 @@
-# Hi, I'm Abubakkar Siddique 👋
+# Hi, I'm Abubakkar Siddique 
 
 ### **Researcher | ML Engineer | Software Developer**
 I am a **Computer Science & Engineering** graduate from **United International University (UIU)**, based in **Dhaka** and originally from **Chunarughat, Sylhet**. I specialize in building intelligent, secure, and scalable solutions.
@@ -8,7 +8,7 @@ I am a **Computer Science & Engineering** graduate from **United International U
 ## 🛠 Technologies & Tools
 
 <details>
-<summary><b>🚀 Click to see my Full Tech Stack & Skills</b></summary>
+<summary><b> Click to see my Full Tech Stack & Skills</b></summary>
 
 ### Programming Languages & Core
 - **Python**: Application building, Data Analysis, ML.
@@ -30,14 +30,14 @@ I am a **Computer Science & Engineering** graduate from **United International U
 
 ---
 
-## 🔬 Research Focus
+##  Research Focus
 - **Secure Machine Learning:** Adversarial defense mechanisms.
 - **Spatial ML:** Analyzing geographical data patterns.
 - **Green Data Centers:** Energy-efficient computing.
 
 ---
 
-## 🚀 Notable Projects
+##  Notable Projects
 
 ### 1. [Web Scraping Job Search Platform](https://github.com/abubakkarsiddiquee/web-scraping-job-search-platform)
 An intelligent aggregator that uses AI-driven skill matching to provide personalized job recommendations.
@@ -56,7 +56,7 @@ A robust system for managing bookings with a secure admin and user interface.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakkarsiddiquee&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkarsiddiquee&layout=compact&theme=radical)
 
