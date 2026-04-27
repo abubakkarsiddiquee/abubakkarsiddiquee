@@ -1,6 +1,6 @@
 # Hi, I'm Abubakkar Siddique 
 
-### **Researcher | ML Engineer | Software Developer**
+### **Researcher | CS Graduate | ML Engineer | Software Developer**
 I am a **Computer Science & Engineering** graduate from **United International University (UIU)**, based in **Dhaka** and originally from **Chunarughat, Sylhet**. I specialize in building intelligent, secure, and scalable solutions.
 
 ---
