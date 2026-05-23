@@ -44,7 +44,7 @@ An intelligent aggregator that uses AI-driven skill matching to provide personal
 - **Features:** Automated scraping from multiple portals, AI-based skill matching, real-time database updates.
 - **Stack:** Node.js, Express, React, MySQL.
 
-### 2. [Baby Cry Decoder](https://github.com/abubakkarsiddiquee/Baby_Cry_Decoder)
+### 2. [Baby Cry Decoder](https://github.com/abubakkarsiddiquee/BabyCry-Decoder)
 A mobile application leveraging deep learning to analyze baby cries and identify potential needs.
 - **Features:** Real-time cry classification (Hunger, Pain, etc.), CNN model for audio analysis, AI parenting chatbot.
 - **Stack:** React Native, Python, TensorFlow, Keras.
