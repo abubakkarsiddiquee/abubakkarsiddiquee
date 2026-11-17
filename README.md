@@ -1,78 +1,69 @@
-# Hi, I'm Abubakkar Siddique 
+# Hi, I'm Abubakkar Siddique
 
-### **Researcher | CS Graduate | ML Engineer | Software Developer**
-I am a **Computer Science & Engineering** graduate from **United International University (UIU)**, based in **Dhaka** and originally from **Chunarughat, Sylhet**. I specialize in building intelligent, secure, and scalable solutions.
+**Computer Science Graduate | Aspiring Software Engineer**
 
----
+I am a Computer Science graduate interested in building reliable software, backend systems, and practical applications. I enjoy solving engineering problems and exploring how software, databases, and AI can work together to create useful products.
 
-## 🛠 Technologies & Tools
+My current focus is strengthening my software engineering skills, particularly in backend development, full-stack applications, and system design.
 
-<details>
-<summary><b> Click to see my Full Tech Stack & Skills</b></summary>
+## Technical Skills
 
-### Programming Languages & Core
-- **Python**: Application building, Data Analysis, ML.
-- **JavaScript & TypeScript**: Scalable web and mobile applications.
-- **C++**: Data structures and algorithms.
-- **PHP**: Backend development.
+- **Languages:** JavaScript, TypeScript, Python, Java, C, C++
+- **Backend:** Node.js, Express.js, REST APIs
+- **Frontend & Mobile:** React, React Native
+- **Databases:** MySQL, MongoDB
+- **AI/ML:** TensorFlow, Keras, Librosa
+- **Tools:** Git, GitHub, Postman
 
-### Frameworks & Libraries
-- **AI/ML:** TensorFlow, PyTorch, scikit-learn, Keras.
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn.
-- **Web:** React.js, Node.js, Express.js.
-- **Mobile:** React Native, Expo.
+## Selected Projects
 
-### Databases & Tools
-- **Databases:** MySQL (Relational), MongoDB (NoSQL).
-- **Tools:** Git, Docker, Jupyter Notebook, VS Code.
-- **Cloud:** Familiar with AWS and Azure deployment.
-</details>
+### 1. Web Scraping Job Search Platform
+[Repository](https://github.com/abubakkarsiddiquee/web-scraping-job-search-platform)
 
----
+An intelligent job aggregation platform designed to collect job listings and provide personalized recommendations through skill matching.
 
-##  Research Focus
-- **Secure Machine Learning:** Adversarial defense mechanisms.
-- **Spatial ML:** Analyzing geographical data patterns.
-- **Green Data Centers:** Energy-efficient computing.
+- Automated job data collection from multiple platforms
+- Skill-based job matching and recommendations
+- Database integration for job listing management
 
----
+**Technologies:** Node.js, Express.js, React, MySQL
 
-##  Notable Projects
+### 2. Baby Cry Decoder
+[Repository](https://github.com/abubakkarsiddiquee/BabyCry-Decoder)
 
-### 1. [Web Scraping Job Search Platform](https://github.com/abubakkarsiddiquee/web-scraping-job-search-platform)
-An intelligent aggregator that uses AI-driven skill matching to provide personalized job recommendations.
-- **Features:** Automated scraping from multiple portals, AI-based skill matching, real-time database updates.
-- **Stack:** Node.js, Express, React, MySQL.
+A mobile application that explores deep learning techniques for classifying infant cry sounds and identifying possible needs.
 
-### 2. [Baby Cry Decoder](https://github.com/abubakkarsiddiquee/BabyCry-Decoder)
-A mobile application leveraging deep learning to analyze baby cries and identify potential needs.
-- **Features:** Real-time cry classification (Hunger, Pain, etc.), CNN model for audio analysis, AI parenting chatbot.
-- **Stack:** React Native, Python, TensorFlow, Keras.
+- Audio-based cry classification
+- CNN-based audio analysis
+- Mobile application with an AI-powered parenting assistant
 
-### 3. [Ticket Management System](https://github.com/abubakkarsiddiquee/Ticket_Management_System)
-A robust system for managing bookings with a secure admin and user interface.
-- **Features:** Booking/Cancellation workflow, Admin panel for schedules, Secure transaction management.
-- **Stack:** Node.js, Express, MySQL, JavaScript.
+**Technologies:** React Native, Python, TensorFlow, Keras, Librosa
 
----
+### 3. Ticket Management System
+[Repository](https://github.com/abubakkarsiddiquee/Ticket_Management_System)
 
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakkarsiddiquee&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkarsiddiquee&layout=compact&theme=radical)
+A booking management application designed to support users and administrators in managing ticket reservations.
 
----
+- Booking and cancellation workflows
+- Administrative management interface
+- User and booking management
 
-## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abubakkarsiddiquee.github.io/abubakkarsiddique/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abubakkar--siddique/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Connect-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Abubakkar-Siddique-3)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-orange?style=for-the-badge&logo=hashnode)](https://hashnode.com/@abubakkarsiddique)
-[![Medium](https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium)](https://medium.com/@abubakkarsiddiquee)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Awubakkar)
+**Technologies:** JavaScript, Node.js, Express.js
+
+## Current Learning Focus
+
+- Backend engineering and API development
+- Database design and optimization
+- Data structures and algorithms
+- Software architecture and system design
+- Testing, deployment, and cloud fundamentals
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/abubakkar--siddique/)
+- [Portfolio](https://abubakkarsiddiquee.github.io/abubakkarsiddique/)
+- [GitHub](https://github.com/abubakkarsiddiquee)
 
 ---
 
-### ✍️ Blog & Writing
-I share my technical journey and insights on building secure AI systems.
-* [Hashnode Blog](https://hashnode.com/@abubakkarsiddique)
-* [Medium Articles](https://medium.com/@abubakkarsiddiquee)
+*Building, learning, and improving one project at a time.*
